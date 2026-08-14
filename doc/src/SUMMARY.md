@@ -1,0 +1,20 @@
+# Summary
+
+[Introduction](README.md)
+[Installation](install.md)
+
+- [Schlandals Modelization](modelization/README.md)
+    - [Bayesian Networks]()
+        - [Model Description](modelization/bn/model.md)
+        - [Dimacs file format](modelization/bn/dimacs.md)
+        - [UAI file format](modelization/bn/uai.md)
+    - [Probabilistic Graphs]()
+        - [Model Description](modelization/pg/model.md)
+        - [Dimacs file format](modelization/pg/dimacs.md)
+        - [PG file format](modelization/pg/pg.md)
+- [Performing the Inference](inference/README.md)
+    - [Search solver](inference/search.md)
+    - [Compiler](inference/compilation.md)
+- [Learning Distributions Parameters](learning/README.md)
+    - [Learning Settings](learning/settings.md)
+- [Python Interface](python.md)
